@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 this is a updated readme file.
 
 
@@ -19,3 +20,7 @@ Switch to the branch and then:
 
 1
 git push origin -u new-name
+=======
+
+Antonia has updated the master readme file.
+>>>>>>> 5e5ea2ebce585086a2de638483bc5f5772bce1d2
